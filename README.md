@@ -1,8 +1,8 @@
 # PSE em Ação
 
 # Alunos:
-Vitor Hugo Tavares da Silva RA: 26011599-2
-Gabriela de Oliveira Cogo RA: 
+Vitor Hugo Tavares da Silva RA: 26011599-2/
+Gabriela de Oliveira Cogo RA: /
 Suelen Gabriela Saito da Silva
 
 ## Sistema de Planejamento e Acompanhamento de Ações de Saúde na Escola
