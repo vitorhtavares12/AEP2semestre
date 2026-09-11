@@ -1,5 +1,10 @@
 # PSE em Ação
 
+Alunos:
+Vitor Hugo Tavares da Silva RA: 26011599-2
+Gabriela de Oliveira Cogo RA: 
+Suelen Gabriela Saito da Silva
+
 ## Sistema de Planejamento e Acompanhamento de Ações de Saúde na Escola
 
 O **PSE em Ação** é uma proposta de sistema desenvolvido em linguagem C para auxiliar no cadastro, consulta e acompanhamento de ações coletivas do Programa Saúde na Escola (PSE).
